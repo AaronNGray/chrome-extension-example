@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-basic-option",
+  "name": "chrome-extension-example",
   "version": "0.1",
-  "description": "chrome-extension-basic-option",
+  "description": "chrome-extension-example",
   "devtools_page": "devtools.html",
   "options_page": "options.html",
   "manifest_version": 3,
